@@ -1,11 +1,3 @@
-<p align="center">
-<a href="https://github.com/T-Dynamos"><img title="Language" src="https://img.shields.io/badge/Made%20with-python3-1f425f.svg?v=103"></a>
-<a href="https://github.com/T-Dynamos"><img title="Followers" src="https://img.shields.io/github/followers/T-Dynamos?color=blue&style=flat-square"></a>
-<a href="https://github.com/T-Dynamos"><img title="Stars" src="https://img.shields.io/github/stars/T-Dynamos/BaapG-Attack?color=red&style=flat-square"></a>
-<a href="https://github.com/T-Dynamos"><img title="Forks" src="https://img.shields.io/github/forks/T-Dynamos/BaapG-Attack?color=red&style=flat-square"></a>
-<a href="https://github.com/T-Dynamos"><img title="Watching" src="https://img.shields.io/github/watchers/T-Dynamos/BaapG-Attack?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/T-Dynamos"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
-</p>
 <h1 align="center">IgFreak</h1>
 
 
@@ -48,7 +40,7 @@ Igfreak is a advance Instagram Slick Hacking framework that can bruteforcer , ph
 * Clone Project
 
 ```
- git clone https://github.com/T-Dynamos/IgFreak
+ git clone https://github.com/Transmetal/IgFreak
  ```
  
 * Change Project Dir
