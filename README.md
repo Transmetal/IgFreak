@@ -97,29 +97,3 @@ It had a simple beginner friendly ui
 ```
 python3 ui.py
 ```
-
-## SCREEN SHOTS [Termux]
-
-<br>
-<p align="center">
-<img width="50%" src="https://github.com/T-Dynamos/T-Dynamos/raw/main/bin/Screenshot_2021-11-07-20-14-09-897_com.termux.jpg"/>
-<img width="49%" src="https://github.com/T-Dynamos/T-Dynamos/raw/main/images/Screenshot_2022-01-17-09-43-30-871_com.termux.jpg"/>
-</p>
-
-
-<br>
-<p align="center">
-<img width="80%" src="https://github.com/T-Dynamos/T-Dynamos/raw/main/images/Screenshot_2022-01-11-12-07-14-510_com.anydesk.anydeskandroid.jpg"/>
-</p>
-
-
-## WARNING : 
-***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
-
-## Contact Me
-t.me/ProgrammerAnsh
-## Dontaions
-
-If You really like my work you should consider donating to me to made me buy [Raspberry Pi 400](https://www.electronicscomp.com/raspberry-pi-400-personal-keyboard-computer-kit)
-
-* UPI ID : anshdadwal@apl
