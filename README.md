@@ -1,29 +1,3 @@
-</p>
-<p align="center">
-<a href="https://bit.ly/2BNk3P1"><img title="Made in INDIA" src="https://img.shields.io/badge/IgFreak-green.svg"></a>
-<a href="https://bit.ly/2BNk3P1"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
-<a href="https://bit.ly/2BNk3P1"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
-</p>
-<p align="center">
-</p>
-
-
-<p align="center">
-
-<img src="https://github.com/T-Dynamos/T-Dynamos/raw/main/bin/igfreak-logo.png"/>
-
-
-
-
-</p>
-
-
-
-
-
- 
-
-
 <p align="center">
 <a href="https://github.com/T-Dynamos"><img title="Language" src="https://img.shields.io/badge/Made%20with-python3-1f425f.svg?v=103"></a>
 <a href="https://github.com/T-Dynamos"><img title="Followers" src="https://img.shields.io/github/followers/T-Dynamos?color=blue&style=flat-square"></a>
